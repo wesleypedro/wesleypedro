@@ -3,7 +3,7 @@
 
 - 🌱 Estou revisando e aprendendo coisas novas em **Ciência de Dados, React, back-end e outros**
 
-- 📝 Estou sempre buscando revisar e aprender coisas novas <!--aprendendo e compartilhando coisas novas no site [https://medium.com/@owesleypedro](https://medium.com/@owesleypedro)-->
+<!-- - 📝 Estou sempre buscando revisar e aprender coisas novas <!--aprendendo e compartilhando coisas novas no site [https://medium.com/@owesleypedro](https://medium.com/@owesleypedro)-->
 
 - 📫 Você pode me achar pelo email **owesleypedro@gmail.com**
 
